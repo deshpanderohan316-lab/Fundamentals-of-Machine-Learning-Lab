@@ -13,3 +13,6 @@
 [submodule "202618058-Rohan-Deshpande-Lab-5"]
 	path = 202618058-Rohan-Deshpande-Lab-5
 	url = https://github.com/deshpanderohan316-lab/202618058-Rohan-Deshpande-Lab-5.git
+[submodule "Lab-5"]
+	path = Lab-5
+	url = https://github.com/deshpanderohan316-lab/202618058-Rohan-Deshpande-Lab-5.git
